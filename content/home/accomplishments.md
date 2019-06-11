@@ -1,12 +1,12 @@
 +++
 widget = "accomplishments"
-headless = false  # This file represents a page section.
+headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
 
 # ... Put Your Section Options Here (title etc.) ...
-
+title = "Teaching Assistant Courses"
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
 date_format = "Jan 2006"
@@ -18,32 +18,26 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Coursera"
-  organization_url = "https://www.coursera.org"
-  title = "Neural Networks and Deep Learning"
-  url = ""
-  certificate_url = "https://www.coursera.org"
-  date_start = "2018-10-01"
-  date_end = ""
+  organization = "Northwestern University"
+  title = "Stat 202 Introduction to Statistics"
+  url = "https://www.statistics.northwestern.edu/courses/2018-2019/course-descriptions/#202-0"
+  date_start = "2018-09-01"
+  date_end = "2018-06-01"
   description = ""
 
 [[item]]
-  organization = "edX"
-  organization_url = "https://www.edx.org"
-  title = "Blockchain Fundamentals"
-  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
-  certificate_url = "https://www.edx.org"
-  date_start = "2018-03-01"
-  date_end = ""
-  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  organization = "Northwestern University"
+  title = "Stat 325 Survey Sampling"
+  url = "vhttps://www.statistics.northwestern.edu/courses/2018-2019/course-descriptions/#325-0"
+  date_start = "2018-09-01"
+  date_end = "2018-12-01"
+  description = ""
   
 [[item]]
-  organization = "DataCamp"
-  organization_url = "https://www.datacamp.com"
-  title = "Object-Oriented Programming in R: S3 and R6 Course"
-  url = ""
-  certificate_url = "https://www.datacamp.com"
-  date_start = "2017-07-01"
-  date_end = "2017-12-21"
+  organization = "Northwestern University"
+  title = "Stat 302 Data Visualization"
+  url = "https://www.statistics.northwestern.edu/courses/2018-2019/course-descriptions/#302"
+  date_start = "2019-04-01"
+  date_end = "2019-06-01"
   description = ""
 +++
