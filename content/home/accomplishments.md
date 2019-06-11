@@ -1,12 +1,11 @@
 +++
-# Accomplishments widget.
-widget = "accomplishments"  # See https://sourcethemes.com/academic/docs/page-builder/
-headless = true  # This file represents a page section.
+widget = "accomplishments"
+headless = false  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 50  # Order that this section will appear.
 
-title = "TA Courses"
-subtitle = ""
+
+# ... Put Your Section Options Here (title etc.) ...
 
 # Date format
 #   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
@@ -19,28 +18,32 @@ date_format = "Jan 2006"
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 
 [[item]]
-  organization = "Northwestern University"
-  title = "STAT 202 Introduction to Statistic"
-
-  date_start = "Fall 17, Winter 18, Spring 18, Winter 19"
+  organization = "Coursera"
+  organization_url = "https://www.coursera.org"
+  title = "Neural Networks and Deep Learning"
+  url = ""
+  certificate_url = "https://www.coursera.org"
+  date_start = "2018-10-01"
   date_end = ""
-  description = "Data collection, summarization, correlation, regression, probability, sampling, estimation, tests of significance."
+  description = ""
 
 [[item]]
-  organization = "Northwestern University"
-  title = "STAT 325 Survey Sampling"
-
-  date_start = "Fall 18"
+  organization = "edX"
+  organization_url = "https://www.edx.org"
+  title = "Blockchain Fundamentals"
+  url = "https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals"
+  certificate_url = "https://www.edx.org"
+  date_start = "2018-03-01"
   date_end = ""
-  description = "Probability sampling, simple random sampling, error estimation, sample size, stratification, systematic sampling, replication methods, ratio and regression estimation, cluster sampling."
-
-
+  description = "Formulated informed blockchain models, hypotheses, and use cases."
+  
 [[item]]
-  organization = "Northwestern University"
-  title = "STAT 302 Data Visualization"
-
-  date_start = "Spring 19"
-  date_end = ""
-  description = "Introduction to the knowledge, skills, and tools required to visualize data of various formats across statistical domains and to create quality visualizations for both data exploration and presentation."
-
+  organization = "DataCamp"
+  organization_url = "https://www.datacamp.com"
+  title = "Object-Oriented Programming in R: S3 and R6 Course"
+  url = ""
+  certificate_url = "https://www.datacamp.com"
+  date_start = "2017-07-01"
+  date_end = "2017-12-21"
+  description = ""
 +++
