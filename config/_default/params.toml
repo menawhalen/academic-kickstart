@@ -51,8 +51,8 @@ time_format = "3:04 PM"
 
 # Enter contact details (optional). To hide a field, clear it to "".
 email = "mcwhalen@u.northwestern.edu"
-phone = "417 597 6552"
-address = "2006 Sheridan Rd, Evanston, IL 60208"
+phone = ""
+address = "2006 Sheridan Rd, Room 105A Evanston, IL 60208"
 # Office hours: use `<br>` to insert a line break, or set to "" to remove office hours
 #office_hours = """Monday 10:00 to 13:00<br>
 #                  Wednesday 09:00 to 10:00"""
