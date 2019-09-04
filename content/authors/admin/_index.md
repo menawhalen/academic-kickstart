@@ -65,4 +65,4 @@ email: ""
 #- Visitors
 ---
 
-Mena Whalen is a current graduate student in the fourth year of her PhD in statistics at Northwestern University. Research interests include social policy statistics, survey sampling, and changepoint analysis methods. She is advised by Prof. Bruce Spencer and Prof. Noelle Samia. She is the current President of Women in Statistics at Northwester (WIST) and 2019-2020 survey co-coordinator for Graduate Leadership and Advocacy Council (GLAC). 
+I am a current graduate student in the fourth year of my PhD in statistics at Northwestern University. My research interests include social policy statistics, survey sampling, and changepoint analysis methods. I am advised by Prof. Bruce Spencer and Prof. Noelle Samia. I am the current President of Women in Statistics at Northwestern (WIST) for the 2019-2020 year.
