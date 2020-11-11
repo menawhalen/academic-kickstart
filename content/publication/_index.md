@@ -8,8 +8,6 @@ title: Publications
 #   4 = Citation
 view: 4
 
-# Optional header image (relative to `static/img/` folder).
-header:
-  caption: ""
-  image: ""
+Schauer, J.M., Fitzgerald, K.G., Peko-Spicer, S., \textbf{Whalen, M.C.R.}, Zejnullahi, R.,
+& Hedges, L.V. An evaluation of statistical methods for aggregate patterns of replication failure. Forthcoming in Annals of Applied Statistics. 
 ---

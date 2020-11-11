@@ -21,18 +21,22 @@ organizations:
 bio: #My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Social Policy 
+- Health Policy 
 - Survey Sampling
-- Changepoint Analysis
+- Change Point Analysis
+- Data Vizualization
 
 education:
   courses:
   - course: BS Mathematics Emphasis in Statistics
     institution: Missouri State University
     year: 2012
+  - course: MS in Statistics
+    institution: Northwestern University 
+    year: 2020
   - course: PhD Statistics
     institution: Northwestern University
-    year: 4th Year
+    year: 5th Year
 
 
 # Social/Academic Networking
@@ -65,4 +69,4 @@ email: ""
 #- Visitors
 ---
 
-I am a current graduate student in the fourth year of my PhD in statistics at Northwestern University. My research interests include social policy statistics, survey sampling, and changepoint analysis methods. I am advised by Prof. Bruce Spencer and Prof. Noelle Samia. I am the current President of Women in Statistics at Northwestern (WIST) for the 2019-2020 year.
+I am currently working towards my PhD in statistics at Northwestern University. I am advised by Prof. Noelle I. Samia and Prof. Bruce Spencer. My specialties include spatial temporal statistics with applications in health policy and criminology. I have an interest in survey sampling, data visualization, and statistics pedagogy.  I am the current President and Founder of Women in Statistics at Northwestern \href{https://wistnu.netlify.app/}{(WIST)}. When I am not doing my statistical work, I'm is playing with my dog Delta, out volunteering in the community, or practicing my artistry with makeup.
